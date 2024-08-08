@@ -1,0 +1,191 @@
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+#recientementebutton a:hover,
+#slobutton a:hover,
+#nuevosbutton a:hover,
+#showsbutton a:hover,
+#generosbutton a:hover,
+#salirbutton a:hover,
+#buscarbutton a:hover,
+#sugerenciasbutton a:hover  {
+   background-position: -549px 0%;
+}
+
+#recientementebutton a,
+#salirbutton a,
+#showsbutton a,
+#nuevosbutton a,
+#sugerenciasbutton a,
+#slobutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 74px;
+   width: 549px;
+   background-position: 0% 0px;
+   font-size: 74px;
+   line-height: 74px;
+}
+
+#generosbutton a,
+#buscarbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 73px;
+   width: 549px;
+   background-position: 0% 0px;
+   font-size: 73px;
+   line-height: 73px;
+}
+
+#recientementebutton a  {
+   background-image: url(p1tvmedia/recientementebutton.gif);
+}
+
+#recientementebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 220px;
+   z-index: 8;
+   width: 549px;
+   height: 74px;
+}
+
+#sugerenciasbutton a  {
+   background-image: url(p1tvmedia/sugerenciasbutton.gif);
+}
+
+#sugerenciasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 160px;
+   z-index: 9;
+   width: 549px;
+   height: 74px;
+}
+
+#generosbutton a  {
+   background-image: url(p1tvmedia/generosbutton.gif);
+}
+
+#nuevosbutton a  {
+   background-image: url(p1tvmedia/nuevosbutton.gif);
+}
+
+#buscarbutton a  {
+   background-image: url(p1tvmedia/buscarbutton.gif);
+}
+
+#generosbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 281px;
+   z-index: 7;
+   width: 549px;
+   height: 73px;
+}
+
+#salirbutton a  {
+   background-image: url(p1tvmedia/salirbutton.gif);
+}
+
+#showsbutton a  {
+   background-image: url(p1tvmedia/showsbutton.gif);
+}
+
+#buscarbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 516px;
+   z-index: 3;
+   width: 549px;
+   height: 73px;
+}
+
+#nuevosbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 397px;
+   z-index: 5;
+   width: 549px;
+   height: 74px;
+}
+
+#salirbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 576px;
+   z-index: 2;
+   width: 549px;
+   height: 74px;
+}
+
+#showsbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 341px;
+   z-index: 6;
+   width: 549px;
+   height: 74px;
+}
+
+#slobutton a  {
+   background-image: url(p1tvmedia/slobutton.gif);
+}
+
+#slobutton  {
+   visibility: visible;
+   position: absolute;
+   left: 693px;
+   top: 455px;
+   z-index: 4;
+   width: 549px;
+   height: 74px;
+}
+
+#layer1  {
+	background: url(p1tvmedia/layer1.gif) no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+	width: 1280px;
+	height: 726px;
+}
+
+#layer2  {
+   background: url(p1tvmedia/layer2.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 862px;
+   top: 51px;
+   z-index: 2;
+   width: 226px;
+   height: 68px;
+}
+
+#p1tv  {
+   margin: 0px auto 0px auto;
+   width: 1280px;
+   position: relative;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #000000;
+}

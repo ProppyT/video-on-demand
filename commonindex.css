@@ -1,0 +1,146 @@
+* {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);  
+} 
+
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+img {
+	border: 0;
+}
+
+#musicbutton a:hover  {
+   background: url(images/d2.png) no-repeat 0% 0px;
+}
+
+#moviebutton a:hover  {
+    background: url(images/b2.png) no-repeat 0% 0px;
+}
+
+#tvbutton a:hover  {
+   background: url(images/c2.png) no-repeat 0% 0px;
+}
+
+#i3botonesinicio  {
+   margin: 0px auto 0px auto;
+   width: 1280px;
+   position: relative;
+}
+
+#moviebutton a  {
+   background: url(images/b1.png) no-repeat 0% 0px;
+   display: block;
+   height: 131px;
+   width: 223px;
+}
+
+#musicbutton a  {
+   background: url(images/d1.png);
+   display: block;
+   height: 131px;
+   width: 223px;
+}
+
+#moviebutton  {
+	visibility: visible;
+	position: absolute;
+	left: 226px;
+	top: 351px;
+	z-index: 2;
+	width: 223px;
+	height: 131px;
+}
+
+#musicbutton  {
+	visibility: visible;
+	position: absolute;
+	left: 898px;
+	top: 352px;
+	z-index: 2;
+	width: 223px;
+	height: 131px;
+}
+
+#tvbutton a  {
+   background: url(images/c1.png) no-repeat 0% 0px;
+   display: block;
+   height: 131px;
+   width: 223px;
+}
+
+#tvbutton  {
+	visibility: visible;
+	position: absolute;
+	left: 555px;
+	top: 350px;
+	z-index: 2;
+	width: 223px;
+	height: 131px;
+}
+
+#pelculas  {
+   background: url(3botonesiniciomedia/pelculas.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 293px;
+   top: 486px;
+   z-index: 2;
+   width: 82px;
+   height: 15px;
+}
+
+#layer12  {
+   background: url(3botonesiniciomedia/layer12.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 406px;
+   top: 64px;
+   z-index: 2;
+   width: 527px;
+   height: 160px;
+}
+
+#layer1  {
+   background: url(3botonesiniciomedia/layer1.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 1;
+   width: 1280px;
+   height: 668px;
+}
+
+#msica  {
+   background: url(3botonesiniciomedia/msica.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 969px;
+   top: 486px;
+   z-index: 2;
+   width: 64px;
+   height: 15px;
+}
+
+#tv  {
+   background: url(3botonesiniciomedia/tv.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 659px;
+   top: 486px;
+   z-index: 2;
+   width: 27px;
+   height: 15px;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #000000;
+}
